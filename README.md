@@ -6,7 +6,7 @@
   - Python
   - C++
   - Java
-#### reach me 
+#### Reach me 
   - telegram: @vanerk
   - email: vybornov@niuitmo.ru
   - [vk](https://vk.com/vanerk)
