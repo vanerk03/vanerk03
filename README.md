@@ -7,6 +7,6 @@
   - C++
   - Java
 #### Reach me 
-  - telegram: @vanerk
+  - [telegram](https://t.me/vanerk)
   - email: vybornov@niuitmo.ru
   - [vk](https://vk.com/vanerk)
