@@ -2,10 +2,9 @@
 
 #### I am first-year studet at ITMO University (St. Petersburg, Russia)
 
-#### I am currently studying 
+#### I am currently studying: 
   - Python
-  - C++
-  - Java
+  - Rust
 #### Reach me 
   - [telegram](https://t.me/vanerk)
   - email: vybornov@niuitmo.ru
