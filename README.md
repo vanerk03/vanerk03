@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-#### I am second-year student at ITMO University (St. Petersburg, Russia) + Neapolis University (Paphos, Cyprus)
+#### HSE AMI Student 
 
 #### I am currently studying: 
-  - Python
-  - C++
-  - Machine learning
-  - Deep learning
+  - Python/C++
+  - ML/DL
+
 #### Reach me 
   - [telegram](https://t.me/vanerk)
   - email: vanerk4@gmail.com
