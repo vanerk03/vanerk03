@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-#### HSE AMI Student 
-
-#### I am currently studying: 
-  - Python/C++
-  - ML/DL
+#### HSE AMI Student + Yandex School of Data Analysis, Machine learning engineer
 
 #### Reach me 
   - [telegram](https://t.me/vanerk)
